@@ -1,3 +1,7 @@
+#profile-title: АУРА-ПРЕМИУМ
+#profile-update-interval: 4
+#announce: автообновление - 4 часа.
+
 {
   "dns": {
     "servers": [
