@@ -14,7 +14,7 @@ vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.164:443?security=reality&e
 
 vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.165:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 6. БЕЛАЯ РОССИЯ
 
-vless://68ac194a-0313-41a1-89fb-903a6fa3c795@64.188.90.93:443?mode=gun&security=reality&encryption=none&authority=&pbk=izCUzi8srWz4o9UbRkAfemYs13fHQc_6H5QBGct6gWU&fp=chrome&allowinsecure=0&type=grpc&serviceName=&sni=a.primarymaster.online&sid=c5b7244c0fef441a#🇷🇺 7. AuraHostRussia
+vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.149:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 7. AuraHostRussia
 
 vless://0b019605-4150-4d75-882f-03b07f7fbb39@185.254.190.188:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ign.dev&sid=6ba85179e30d4fc2#🇳🇱 8. БЕЛЫЕ НИДЕРЛАНДЫ 
 
@@ -33,6 +33,7 @@ ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:80#🇸🇬 14. С�
 ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng==@66.94.125.178:80#🇷🇺 15. для GEMINI CHAT GPT и другие
 
 ss://YWVzLTI1Ni1nY206N3ZaTzU1ZlhnWEFKWGEyRg==@154.12.242.150:80#🇷🇺 16. для GEMINI CHAT GPT и другие
+
 
 
 
