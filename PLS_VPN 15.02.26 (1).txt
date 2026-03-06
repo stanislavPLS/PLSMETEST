@@ -1,4 +1,4 @@
-#profile-title: 🌸АУРА-ВПН🛡️
+#profile-title: 🌸АУРА-ВПН-тест🛡️
 #profile-update-interval: 6
 #announce: 🔄автообновление - 6 часов; бесплатно , быстро, навсегда.
 
@@ -36,6 +36,7 @@ vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxsb3dpbnNlY3VyZSI6IjAiLCJh
 ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng==@66.94.125.178:80#🇷🇺 16. для GEMINI CHAT GPT и другие
 
 ss://YWVzLTI1Ni1nY206N3ZaTzU1ZlhnWEFKWGEyRg==@154.12.242.150:80#🇷🇺 17. для GEMINI CHAT GPT и другие
+
 
 
 
