@@ -1,87 +1,22 @@
-#profile-title: 🌸АУРА-ВПН-тест🛡️
+#profile-title: 🛡️АУРА-ВПН🌐
 #profile-update-interval: 6
-#announce: 🔄автообновление - 6 часов; бесплатно , быстро, навсегда.
+#announce: 🆔:0, истекает: 11.03.2031 13:29, трафик: безлимит. тг: @AURA_VPN_OFF
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.149:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 1. AuraHostRussia
+vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxsb3dpbnNlY3VyZSI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+HrvCfh7cgMS4g0JjQoNCQ0J0iLCJzY3kiOiJub25lIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.163:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 2. AuraHostRussia
+tuic://dbd153b6-b753-441c-901b-f11867c44c47@ru-1.hotvpn.cc:443?sni=google.com#🇷🇺 2. БелТУИК РЕЗЕРВ 
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.165:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 3. AuraHostRussia
+vless://d0722d01-7ee8-0bb8-85e1-d590ad0e60d3@109.120.189.25:52006?security=reality&encryption=none&echfq=none&pbk=4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=d8c6b58bcbb0c323#%F0%9F%87%AB%F0%9F%87%AE+3.+%F0%9F%8F%B3%EF%B8%8F%D0%91%D0%B5%D0%BB%D0%A0%D0%95%D0%97%D0%95%D0%A0%D0%92+%D0%A4%D0%98%D0%9D%D0%9B%D0%AF%D0%9D%D0%94%D0%98%D0%AF
 
-vless://187f789a-8a5e-42f3-984b-ed87946b300f@95.163.210.157:443?security=reality&encryption=none&pbk=6hHs79h255WBDlecoh47IT_hq5PRvBPUDymBOMzeCj0&headerType=none&fp=chrome&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=91adf1fbe5772c61#🇷🇺 4. AuraHostRussia
+vmess://eyJhZGQiOiJjaGF0Z3B0LmNvbSIsImFpZCI6IjAiLCJhbGxvd2luc2VjdXJlIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+HuvCfh7ggNC4g8J+Ps++4j9CR0LXQu9Ch0J/QmNCh0JrQmCDQodCo0JAiLCJzY3kiOiJhdXRvIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.149:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 5. БЕЛАЯ РОССИЯ
+vmess://eyJhZGQiOiJjaGF0Z3B0LmNvbSIsImFpZCI6IjAiLCJhbGxvd2luc2VjdXJlIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+HuvCfh7ggNS4g8J+Ps++4j9CR0LXQu9Cg0JXQl9CV0KDQkiDQodCo0JAiLCJzY3kiOiJhdXRvIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 
-vless://0509acee-63e3-4364-95cc-21c601f059be@5.188.88.165:443?security=reality&encryption=none&pbk=6r6uq4tZym5wRhJ5uti-h-UvN6uatQodMcG8rBU79Q4&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=booking.com#🇷🇺 6. БЕЛАЯ РОССИЯ
+vless://c58a4c5d-413b-000a-a303-466b8c2851ae@95.163.209.5:443?security=reality&encryption=none&echfq=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=111111#%F0%9F%87%B7%F0%9F%87%BA+6.+%F0%9F%8F%B3%EF%B8%8F%D0%91%D0%B5%D0%BB%D0%A1%D0%9F%D0%98%D0%A1%D0%9A%D0%98
 
-vless://0d3e2d21-f31b-07d0-b418-54cacd0be7c4@212.193.157.118:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇷🇺 7. БЕЛАЯ РОССИЯ
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?path=%2F&security=tls&host=cm22-bgphhh.pages.dev&allowinsecure=0&type=ws&sni=cm22-bgphhh.pages.dev#%F0%9F%87%B7%F0%9F%87%BA+7.+%F0%9F%8F%B3%EF%B8%8F%D0%91%D0%B5%D0%BB%D0%A2%D0%A0%D0%9E%D0%AF%D0%9D
 
-
-vless://fd325093-cdb5-4a73-980e-af2ec0444310@144.31.234.98:443?security=reality&encryption=none&pbk=2s4DLPlhc3evv3LN-qV-nXdjQtJ7jQ35i--PE8JeeG4&headerType=none&fp=chrome&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=retn.net#🇳🇱 8. БЕЛЫЕ НИДЕРЛАНДЫ 
-
-vless://0d3e2d21-f31b-0bb8-b418-54cacd0be7c4@212.193.153.187:443?path=%2F%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=lk-cdn.deploy-assure.ru&fp=chrome&allowinsecure=0&type=ws&sni=lk-cdn.deploy-assure.ru#🇫🇮 9. БЕЛАЯ ФИНЛЯНДИЯ 
-
-ss://YWVzLTI1Ni1nY206a0VWS2oxeHZnemVFbjhBVg==@209.126.5.209:80#🇺🇸 10. США
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@admin.c1.webramz.co:443#🇬🇧 11. ВЕЛИКОБРИТАНИЯ 
-
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxaGhycXJva2ozYWc=@209.46.102.22:8388#🇩🇪 12. ГЕРМАНИЯ 
-
-ss://YWVzLTEyOC1nY206SGMyeW42VWpWQ2JhUE8zM1RROTNNVXRvZk9MUkhtN0E=@195.154.202.112:18292#🇫🇷 13. ФРАНЦИЯ 
-
-ss://YWVzLTI1Ni1nY206OHQyeGVlbVV0eXVpNHpBdg==@194.233.94.119:80#🇸🇬 14. СИНГАПУР
-
-vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxsb3dpbnNlY3VyZSI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwY3MiOiIiLCJwb3J0IjoiODQ0MyIsInBzIjoi8J+HrvCfh7cgMTUuINCY0KDQkNCdIiwic2N5Ijoibm9uZSIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-
-ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng==@66.94.125.178:80#🇷🇺 16. для GEMINI CHAT GPT и другие
-
-ss://YWVzLTI1Ni1nY206N3ZaTzU1ZlhnWEFKWGEyRg==@154.12.242.150:80#🇷🇺 17. для GEMINI CHAT GPT и другие
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+trojan://22367c45-f6c4-4ca8-8d52-d9787d7bbe91@www.shopify.com:2053?path=%2F&security=tls&host=cm22-bgphhh.pages.dev&allowinsecure=0&type=ws&sni=cm22-bgphhh.pages.dev#%F0%9F%87%B7%F0%9F%87%BA+8.+%F0%9F%8F%B3%EF%B8%8F%D0%91%D0%B5%D0%BB%D0%A2%D0%A0%D0%9E%D0%AF%D0%9D
 
 
 
